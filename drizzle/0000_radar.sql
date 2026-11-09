@@ -1,0 +1,1 @@
+CREATE TABLE opportunities (id TEXT PRIMARY KEY NOT NULL, data TEXT NOT NULL);
